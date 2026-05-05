@@ -6,8 +6,12 @@ A personal career coach powered by Claude. It learns who you are, remembers your
 
 ## What you need
 
-- A **Claude Pro subscription** — [claude.ai/upgrade](https://claude.ai/upgrade)
-- **Git** — [git-scm.com/downloads](https://git-scm.com/downloads)
+**A Claude Pro subscription** — [claude.ai/upgrade](https://claude.ai/upgrade)
+
+**Git** — needed so Claude can set up the project for you.
+
+- **Mac:** Git is usually already installed. To check, open the Terminal app and type `git --version`. If it's not there, you'll be prompted to install it automatically.
+- **Windows:** Download and run the installer from [git-scm.com/downloads](https://git-scm.com/downloads). Click through the defaults — no custom configuration needed.
 
 ---
 
@@ -17,19 +21,19 @@ A personal career coach powered by Claude. It learns who you are, remembers your
 
 Download and install from [claude.ai/download](https://claude.ai/download).
 
-**2. Get the project onto your computer**
-
-Open a terminal and run:
-
-```bash
-git clone https://github.com/harris-tweed/my-ai-career-coach.git
-```
-
-**3. Open the project in Claude Code**
+**2. Create a new project**
 
 - Open Claude Desktop
 - Click the **Code** tab at the top
-- Click **New Project** and select the `my-ai-career-coach` folder you just cloned
+- Click **New Project** and select an empty folder on your computer (e.g. create a folder called `AI Coach` in your Documents)
+
+**3. Let Claude set everything up**
+
+In the chat, paste this message:
+
+> Set up my AI career coach from github.com/harris-tweed/my-ai-career-coach
+
+Claude will download the project and get everything ready automatically.
 
 **4. Start your first session**
 
