@@ -21,11 +21,12 @@ A personal career coach powered by Claude. It learns who you are, remembers your
 
 Download and install from [claude.ai/download](https://claude.ai/download).
 
-**2. Create a new project**
+**2. Open a new session**
 
 - Open Claude Desktop
 - Click the **Code** tab at the top
-- Click **New Project** and select an empty folder on your computer (e.g. create a folder called `AI Coach` in your Documents)
+- Click **New session**
+- Above the chat box, click the working directory selector and choose an empty folder on your computer (e.g. create a folder called `AI Coach` in your Documents)
 
 **3. Let Claude set everything up**
 
